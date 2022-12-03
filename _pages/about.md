@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-- 👋 Hi, I’m Teo (Timothy) Wu, Second Year PhD Student in Nanyang Technological University 🇸🇬, [Resume](https://github.com/teowu/teowu/blob/master/Resume.pdf)
+- 👋 Hi, I’m Teo (Timothy) Haoning Wu, Second Year PhD Student in Nanyang Technological University 🇸🇬, [Resume](https://github.com/teowu/teowu/blob/master/Resume.pdf)
 - 🌱 I’m currently working on *efficient+explainable* [Video Quality Assessment](https://github.com/QualityAssessment)📹
 
 - See my top Repos:
