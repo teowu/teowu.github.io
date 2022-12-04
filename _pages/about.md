@@ -42,7 +42,7 @@ redirect_from:
 
 **Haoning Wu**, Chaofeng Chen, Jingwen Hou, Liang Liao, Annan Wang, Wenxiu Sun, Qiong Yan, Weisi Lin
 
-[**GitHub**](https://github.com/QualityAssessment/FAST-VQA-and-FasterVQA),  [**ArXiv**](https://arxiv.org/abs/2207.02595),  [**Extension (Under Review for TPAMI)**](https://arxiv.org/abs/2210.05357)
+[**GitHub**](https://github.com/QualityAssessment/FAST-VQA-and-FasterVQA) [![](https://img.shields.io/github/stars/QualityAssessment/FAST-VQA-and-FasterVQA)](https://github.com/QualityAssessment/FAST-VQA-and-FasterVQA),  [**ArXiv**](https://arxiv.org/abs/2207.02595),  [**Extension (Under Review for TPAMI)**](https://arxiv.org/abs/2210.05357)
   
 - Consisting of fragments and FANet, the proposed FrAgment Sample Transformer for VQA (**FAST-VQA**) enables efficient end-to-end deep VQA and learns effective video-quality-related representations. It improves state-of-the-art accuracy by around 10% while reducing 99.5% FLOPs on 1080P high-resolution videos.
 - In our extension, we propose a unified scheme, spatial-temporal grid mini-cube sampling (St-GMS) and the most efficient NR-VQA method at present, **FasterVQA**. FasterVQA achieve significantly better performance than existing approaches on all VQA benchmarks while requiring only 1/1612 FLOPs compared to the current state-of-the-art.
@@ -73,7 +73,7 @@ Liang Liao, Kangmin Xu, **Haoning Wu**, Chaofeng Chen, Wenxiu Sun, Qiong Yan, We
   
 **Haoning Wu**, Liang Liao, Chaofeng Chen, Jingwen Hou, Annan Wang, Wenxiu Sun, Qiong Yan, Weisi Lin
 
-[**GitHub**](https://github.com/QualityAssessment/DOVER),  [**ArXiv**](https://arxiv.org/abs/2211.04894)
+[**GitHub**](https://github.com/QualityAssessment/DOVER) [![](https://img.shields.io/github/stars/QualityAssessment/DOVER)](https://github.com/QualityAssessment/DOVER),  [**ArXiv**](https://arxiv.org/abs/2211.04894)
   
 - The proposed Disentangled Objective Video Quality Evaluator (**DOVER**) reach excellent performance (0.91 SRCC for KoNViD-1k, 0.89 SRCC for LSVQ, 0.88 SRCC for YouTube-UGC) in the UGC-VQA problem. More importantly, our blind subjective studies prove that the separate evaluators in DOVER can effectively match human perception on respective disentangled quality issues.
 </div>
