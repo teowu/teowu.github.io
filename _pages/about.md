@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-- 👋 Hi, I’m Teo (Timothy) Haoning Wu, Second Year PhD Student in Nanyang Technological University 🇸🇬, [Resume](https://github.com/teowu/teowu/raw/master/Resume.pdf)
-- 🌱 I’m currently working on *efficient+explainable* [Video Quality Assessment](https://github.com/QualityAssessment)📹
+I’m Teo (Timothy) Haoning Wu, Second Year PhD Student in S-Lab, Nanyang Technological University 🇸🇬, [Resume](https://github.com/teowu/teowu/raw/master/Resume.pdf), currently working on *efficient+explainable* [Video Quality Assessment](https://github.com/QualityAssessment) under supervision of Prof. Weisi Lin. I got by bachelor degreee in Peking University in Summer 2021.
 
 - See my top Repos:
 - - 🥇[DOVER](https://qualityassessment.github.io/DOVER) TL,DR: the SOTA NR-VQA method, can predict disentangled aesthetic and technical quality. [Colab demo](https://colab.research.google.com/github/taskswithcode/DOVER/blob/master/TWCDOVER.ipynb) available.
@@ -28,6 +27,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2022.11*: &nbsp;🎉🎉 Training (fing-tuning) code of DOVER published!
 - *2022.11*: &nbsp;🎉🎉 DOVER (the state-of-the-art on in-the-wild VQA) released its code, model, demo and preprint paper. 
 - *2022.10*: &nbsp;🎉🎉 FAST-VQA published on Springer, its extension FasterVQA coming out. 
 
