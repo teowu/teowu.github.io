@@ -54,7 +54,7 @@ Star our repos if you are interested!!!
 
 [**GitHub**](https://github.com/VQAssessment/MaxVQA) [![](https://img.shields.io/github/stars/VQAssessment/MaxVQA)](https://github.com/VQAssessment/MaxVQA),  [**ArXiv**](https://arxiv.org/abs/2305.12726)
   
-- We collect over two million opinions on 4,543 in-the-wild videos on 13 dimensions of quality-related factors, including in-capture authentic distortions (e.g. motion blur, noise, flicker), errors introduced by compression and transmission, and higher-level experiences on semantic contents and aesthetic issues (e.g. composition, camera trajectory), to establish the multi-dimensional Maxwell database. Furthermore, we propose the MaxVQA, a language-prompted VQA approach that modifies vision-language foundation model CLIP to better capture important quality issues as observed in our analyses. 
+- We collect over two million human opinions on 13 dimensions of quality-related factors to establish the multi-dimensional Maxwell database. Furthermore, we propose the MaxVQA, a language-prompted VQA approach that modifies CLIP to better capture important quality issues as observed in our analyses. 
 </div>
 </div>
 
