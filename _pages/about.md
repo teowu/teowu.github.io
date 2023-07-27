@@ -45,7 +45,7 @@ Star our repos if you are interested!!!
 
 ## Conference Proceedings
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2023</div><img src='https://github.com/VQAssessment/MaxVQA/blob/master/figs/maxwell.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2023</div><img src='https://github.com/VQAssessment/MaxVQA/raw/master/figs/maxwell.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Explainable Video Quality Assessment: A Database and a Language-Prompted Approach](https://github.com/VQAssessment/MaxVQA)
@@ -81,6 +81,9 @@ Star our repos if you are interested!!!
 - Robustly predict quality without training from any MOS scores.
 - Localized quality prediction via CLIP.
 - Given a small set of MOS-labelled videos, can robustly+efficiently fine-tune on them.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='https://github.com/VQAssessment/FAST-VQA-and-FasterVQA/raw/dev/demos/fastervqa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -96,9 +99,6 @@ Star our repos if you are interested!!!
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2023 (IF: 8.400)</div><img src='https://github.com/teowu/teowu.github.io/raw/main/images/discovqa.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 
 
@@ -116,6 +116,9 @@ Liang Liao, Kangmin Xu, **Haoning Wu**, Chaofeng Chen, Wenxiu Sun, Qiong Yan, We
 </div>
 
 ## Journals and Transactions
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2023 (IF: 8.400)</div><img src='https://github.com/teowu/teowu.github.io/raw/main/images/discovqa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [DisCoVQA: Temporal Distortion-Content Transformers for Video Quality Assessment](https://github.com/VQAssessment/DisCoVQA)
   
