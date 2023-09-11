@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-- 👋 Hi, I’m Teo (Timothy) Wu, PhD Candidate in Nanyang Technological University 🇸🇬, [Resume](https://github.com/teowu/teowu/blob/master/AugResume.pdf), [Homepage](https://teowu.github.io)
+- 👋 Hi, I’m Teo (Timothy) Wu, PhD Candidate in Nanyang Technological University 🇸🇬, [Resume](https://github.com/teowu/teowu/blob/master/SepResume_10.pdf), [Homepage](https://teowu.github.io)
 - 🌱 I’m currently working on *efficient+explainable* [Video Quality Assessment](https://github.com/VQAssessment)📹
 
 Star our repos if you are interested!!!
@@ -26,13 +26,14 @@ Star our repos if you are interested!!!
 - See my top Repos:
 - - [ACMMM 2023, MaxVQA/MaxWell](https://github.com/VQAssessment/MaxVQA) TL,DR: 16-dimensional VQA Dataset and Method, towards explainable VQA. Gradio demos are available in repo.
 - - 🥇 [ICCV 2023, DOVER](https://github.com/VQAssessment/DOVER) TL,DR: the SOTA NR-VQA method, can predict disentangled aesthetic and technical quality. [Colab demo](https://colab.research.google.com/github/taskswithcode/DOVER/blob/master/TWCDOVER.ipynb) available.
-- - 🧰 [ECCV 2022, End-to-End VQA Toolbox (FAST-VQA)](https://github.com/VQAssessment/FAST-VQA-and-FasterVQA) TL, DR: An end-to-end Video Quality Assessment toolbox allowing you to develop your methods; official repo for [FAST-VQA](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660528.pdf)!
+- - 🧰 [TPAMI 2023, ECCV 2022, End-to-End VQA Toolbox (FAST-VQA)](https://github.com/VQAssessment/FAST-VQA-and-FasterVQA) TL, DR: An end-to-end Video Quality Assessment toolbox allowing you to develop your methods; official repo for [FAST-VQA](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660528.pdf)!
 - - 🥇 [ICME 2023 Oral, Zero-Shot BVQI](https://github.com/VQAssessment/BVQI) TL, DR: the SOTA zero-shot NR-VQA method.
 - 📫 Reach me by e-mail: realtimothyhwu@gmail.com, Twitter: [Twitter](https://twitter.com/HaoningTimothy)
 - [Google Scholar](https://scholar.google.com.hk/citations?user=wth-VbMAAAAJ&hl=en-US)
 
 
 # 🔥 News
+- *2023.09.10*: &nbsp;🎉🎉 Extension of FAST-VQA (FasterVQA) get accepted by TPAMI (IF: 23.600)!
 - *2023.07.27*: &nbsp;🎉🎉 Passed my PhD Qualification Examination, now I am a PhD candidate!
 - *2023.07.26*: &nbsp;🎉🎉 MaxVQA get accepted by ACMMM2023 (CCF-A)!
 - *2023.07.14*: &nbsp;🎉🎉 DOVER get accepted by ICCV2023 (CCF-A)!
