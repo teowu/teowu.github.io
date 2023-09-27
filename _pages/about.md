@@ -61,9 +61,9 @@ redirect_from:
 </div>
 </div>
 
-## Conference Proceedings
+## Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI2023, ECCV 2022</div><img src='https://github.com/VQAssessment/FAST-VQA-and-FasterVQA/raw/dev/demos/fastervqa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023 (IF: 23.60), ECCV 2022</div><img src='https://github.com/VQAssessment/FAST-VQA-and-FasterVQA/raw/dev/demos/fastervqa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Neighbourhood Representative Sampling for Efficient End-to-End Video Quality Assessment](https://ieeexplore.ieee.org/document/10264158)
@@ -135,7 +135,6 @@ Liang Liao, Kangmin Xu, **Haoning Wu**, Chaofeng Chen, Wenxiu Sun, Qiong Yan, We
 </div>
 </div>
 
-## Journals and Transactions
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2023 (IF: 8.400)</div><img src='https://github.com/teowu/teowu.github.io/raw/main/images/discovqa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
