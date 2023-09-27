@@ -20,13 +20,14 @@ redirect_from:
 - 👋 Hi, I’m Teo (Timothy) Wu, PhD Candidate in Nanyang Technological University 🇸🇬, [Resume](https://github.com/teowu/teowu/blob/master/SepResume_10.pdf), [Homepage](https://teowu.github.io)
 - 🌱 I’m currently working on *efficient+explainable* [Video Quality Assessment](https://github.com/VQAssessment)📹
 
-Star our repos if you are interested!!!
-[![Star History Chart](https://api.star-history.com/svg?repos=VQAssessment/DOVER,VQAssessment/FAST-VQA-and-FasterVQA&type=Timeline)](https://star-history.com/#VQAssessment/DOVER&VQAssessment/FAST-VQA-and-FasterVQA&Timeline)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=VQAssessment/DOVER,VQAssessment/FAST-VQA-and-FasterVQA,VQAssessment/Q-Bench&type=Timeline)](https://star-history.com/#VQAssessment/DOVER&VQAssessment/FAST-VQA-and-FasterVQA&VQAssessment/Q-Bench&Timeline)
 
 - See my top Repos:
+- - 📑[**Q-Bench**](https://github.com/VQAssessment/Q-Bench): A benchmark for multi-modality LLMs on low-level vision and visual quality assessment! See its 📖[paper](https://arxiv.org/abs/2309.14181) and 🖥️[repository](https://github.com/VQAssessment/Q-Bench)~
 - - [ACMMM 2023, MaxVQA/MaxWell](https://github.com/VQAssessment/MaxVQA) TL,DR: 16-dimensional VQA Dataset and Method, towards explainable VQA. Gradio demos are available in repo.
 - - 🥇 [ICCV 2023, DOVER](https://github.com/VQAssessment/DOVER) TL,DR: the SOTA NR-VQA method, can predict disentangled aesthetic and technical quality. [Colab demo](https://colab.research.google.com/github/taskswithcode/DOVER/blob/master/TWCDOVER.ipynb) available.
-- - 🧰 [TPAMI 2023, ECCV 2022, End-to-End VQA Toolbox (FAST-VQA)](https://github.com/VQAssessment/FAST-VQA-and-FasterVQA) TL, DR: An end-to-end Video Quality Assessment toolbox allowing you to develop your methods; official repo for [FAST-VQA](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660528.pdf)!
+- - 🧰 [TPAMI 2023, ECCV 2022, End-to-End VQA Toolbox (FAST-VQA)](https://github.com/VQAssessment/FAST-VQA-and-FasterVQA) TL, DR: An end-to-end Video Quality Assessment toolbox allowing you to develop your methods; official repo for [FAST-VQA](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660528.pdf) and [FasterVQA](https://ieeexplore.ieee.org/document/10264158)!
 - - 🥇 [ICME 2023 Oral, Zero-Shot BVQI](https://github.com/VQAssessment/BVQI) TL, DR: the SOTA zero-shot NR-VQA method.
 - 📫 Reach me by e-mail: realtimothyhwu@gmail.com, Twitter: [Twitter](https://twitter.com/HaoningTimothy)
 - [Google Scholar](https://scholar.google.com.hk/citations?user=wth-VbMAAAAJ&hl=en-US)
@@ -44,7 +45,39 @@ Star our repos if you are interested!!!
 
 # 📝 Publications 
 
+## Preprints
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://github.com/VQAssessment/Q-Bench/raw/master/qbench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-Level Vision](https://github.com/VQAssessment/Q-Bench)
+
+**Haoning Wu**\*, Zicheng Zhang\*, Erli Zhang\*, Chaofeng Chen, Liang Liao, Annan Wang, Chunyi Li, Guangtao Zhai, Wenxiu Sun, Qiong Yan, Weisi Lin
+
+
+- We construct the Q-Bench, a benchmark to examine the progresses of MLLMs on lowlevel visual abilities. Anticipating these large foundation models to be general-purpose intelligence that can ultimately relieve human efforts, we propose that MLLMs should achieve three important and distinct abilities: perception on low-level visual attributes, language description on low-level visual information, as well as IQA.
+- Submit your model at [our project page](https://github.com/VQAssessment/Q-Bench/) to compete with existing ones!
+
+</div>
+</div>
+
 ## Conference Proceedings
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI2023, ECCV 2022</div><img src='https://github.com/VQAssessment/FAST-VQA-and-FasterVQA/raw/dev/demos/fastervqa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Neighbourhood Representative Sampling for Efficient End-to-End Video Quality Assessment](https://ieeexplore.ieee.org/document/10264158)
+
+**Haoning Wu**, Chaofeng Chen, Jingwen Hou, Liang Liao, Annan Wang, Wenxiu Sun, Qiong Yan, Weisi Lin
+
+[**GitHub**](https://github.com/VQAssessment/FAST-VQA-and-FasterVQA) [![](https://img.shields.io/github/stars/VQAssessment/FAST-VQA-and-FasterVQA)](https://github.com/VQAssessment/FAST-VQA-and-FasterVQA),  [**ArXiv**](https://arxiv.org/abs/2207.02595)
+  
+- Consisting of fragments and FANet, the proposed FrAgment Sample Transformer for VQA (**FAST-VQA**) enables efficient end-to-end deep VQA and learns effective video-quality-related representations. It improves state-of-the-art accuracy by around 10% while reducing 99.5% FLOPs on 1080P high-resolution videos.
+- In our extension, we propose a unified scheme, spatial-temporal grid mini-cube sampling (St-GMS) and the most efficient NR-VQA method at present, **FasterVQA**. FasterVQA achieve significantly better performance than existing approaches on all VQA benchmarks while requiring only 1/1612 FLOPs compared to the current state-of-the-art.
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2023</div><img src='https://github.com/VQAssessment/MaxVQA/raw/master/figs/maxwell.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -85,20 +118,6 @@ Star our repos if you are interested!!!
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='https://github.com/VQAssessment/FAST-VQA-and-FasterVQA/raw/dev/demos/fastervqa.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[FAST-VQA: Efficient End-to-end Video Quality Assessment with Fragment Sampling](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660528.pdf)
-
-**Haoning Wu**, Chaofeng Chen, Jingwen Hou, Liang Liao, Annan Wang, Wenxiu Sun, Qiong Yan, Weisi Lin
-
-[**GitHub**](https://github.com/VQAssessment/FAST-VQA-and-FasterVQA) [![](https://img.shields.io/github/stars/VQAssessment/FAST-VQA-and-FasterVQA)](https://github.com/VQAssessment/FAST-VQA-and-FasterVQA),  [**ArXiv**](https://arxiv.org/abs/2207.02595),  [**Extension (Under Review for TPAMI)**](https://arxiv.org/abs/2210.05357)
-  
-- Consisting of fragments and FANet, the proposed FrAgment Sample Transformer for VQA (**FAST-VQA**) enables efficient end-to-end deep VQA and learns effective video-quality-related representations. It improves state-of-the-art accuracy by around 10% while reducing 99.5% FLOPs on 1080P high-resolution videos.
-- In our extension, we propose a unified scheme, spatial-temporal grid mini-cube sampling (St-GMS) and the most efficient NR-VQA method at present, **FasterVQA**. FasterVQA achieve significantly better performance than existing approaches on all VQA benchmarks while requiring only 1/1612 FLOPs compared to the current state-of-the-art.
-</div>
-</div>
 
 
 
