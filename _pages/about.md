@@ -47,15 +47,28 @@ redirect_from:
 
 ## Research Spotlight!
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://github.com/VQAssessment/Q-Bench/raw/master/qbench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint Coming Soon</div><img src='https://raw.githubusercontent.com/Q-Future/Q-Instruct/main/q-instruct.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-Level Vision](https://github.com/VQAssessment/Q-Bench) [![](https://img.shields.io/github/stars/Q-Future/Q-Bench)](https://github.com/Q-Future/Q-Bench)
+[Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-Level Vision](https://github.com/Q-Future/Q-Instruct) [![](https://img.shields.io/github/stars/Q-Future/Q-Instruct)](https://github.com/Q-Future/Q-Instruct)
+
+**Haoning Wu**\*, Zicheng Zhang\*, Erli Zhang\*, Chaofeng Chen, Liang Liao, Annan Wang, Kaixin Xu, Chunyi Li, Geng Xue, Guangtao Zhai, Wenxiu Sun, Qiong Yan, Weisi Lin
+
+- We propose the **Q-Instruct**, a 200K instruction-tuning dataset for low-level vision, derived from a self-collected database on 58K real human pathway feedbacks on image quality.
+- The Q-Instruct significantly improves the low-level perceptual accuracy of MLLMs (e.g. LLaVA-v1.5-7B), and we have released the [pretrained weights](https://huggingface.co/teowu/llava_v1.5_7b_qinstruct_preview_v0.1). Take a try!
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://github.com/Q-Future/Q-Bench/raw/master/qbench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-Level Vision](https://github.com/Q-Future/Q-Bench) [![](https://img.shields.io/github/stars/Q-Future/Q-Bench)](https://github.com/Q-Future/Q-Bench)
 
 **Haoning Wu**\*, Zicheng Zhang\*, Erli Zhang\*, Chaofeng Chen, Liang Liao, Annan Wang, Chunyi Li, Wenxiu Sun, Qiong Yan, Guangtao Zhai, Weisi Lin
 
 
-- We construct the Q-Bench, a benchmark to examine the progresses of MLLMs on lowlevel visual abilities. Anticipating these large foundation models to be general-purpose intelligence that can ultimately relieve human efforts, we propose that MLLMs should achieve three important and distinct abilities: perception on low-level visual attributes, language description on low-level visual information, as well as IQA.
+- We construct the **Q-Bench**, a benchmark to examine the progresses of MLLMs on lowlevel visual abilities. Anticipating these large foundation models to be general-purpose intelligence that can ultimately relieve human efforts, we propose that MLLMs should achieve three important and distinct abilities: perception on low-level visual attributes, language description on low-level visual information, as well as IQA.
 - Submit your model at [our project page](https://github.com/VQAssessment/Q-Bench/) to compete with existing ones!
 
 </div>
@@ -79,7 +92,7 @@ redirect_from:
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2023</div><img src='https://github.com/VQAssessment/MaxVQA/raw/master/figs/maxwell.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2023 (Oral)</div><img src='https://github.com/VQAssessment/MaxVQA/raw/master/figs/maxwell.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Explainable Video Quality Assessment: A Database and a Language-Prompted Approach](https://github.com/VQAssessment/MaxVQA)
