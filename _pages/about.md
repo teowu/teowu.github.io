@@ -21,9 +21,10 @@ redirect_from:
 - 🌱 I’m currently working on *efficient+explainable* [Video Quality Assessment](https://github.com/VQAssessment)📹
 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=VQAssessment/DOVER,VQAssessment/FAST-VQA-and-FasterVQA,Q-Future/Q-Bench&type=Timeline)](https://star-history.com/#VQAssessment/DOVER&VQAssessment/FAST-VQA-and-FasterVQA&Q-Future/Q-Bench&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=VQAssessment/DOVER,VQAssessment/FAST-VQA-and-FasterVQA,Q-Future/Q-Bench&Q-Future/Q-Instruct&type=Timeline)](https://star-history.com/#VQAssessment/DOVER&VQAssessment/FAST-VQA-and-FasterVQA&Q-Future/Q-Bench&Q-Future/Q-Instruct&Timeline)
 
 - See my top Repos:
+- - 🧑‍🏫[**Q-Instruct**](https://github.com/Q-Future/Q-Instruct): A **dataset** and a **model zoo** for multi-modality foundational models with improved abilities on low-level vision and visual quality assessment! See its 📖[paper](https://q-future.github.io/Q-Instruct/fig/Q_Instruct_v0_1_preview.pdf) and 🖥️[repository](https://github.com/Q-Future/Q-Instruct)~
 - - 📑[**Q-Bench**](https://github.com/Q-Future/Q-Bench): A benchmark for multi-modality LLMs on low-level vision and visual quality assessment! See its 📖[paper](https://arxiv.org/abs/2309.14181) and 🖥️[repository](https://github.com/Q-Future/Q-Bench)~
 - - [ACMMM 2023, MaxVQA/MaxWell](https://github.com/VQAssessment/MaxVQA) TL,DR: 16-dimensional VQA Dataset and Method, towards explainable VQA. Gradio demos are available in repo.
 - - 🥇 [ICCV 2023, DOVER](https://github.com/VQAssessment/DOVER) TL,DR: the SOTA NR-VQA method, can predict disentangled aesthetic and technical quality. [Colab demo](https://colab.research.google.com/github/taskswithcode/DOVER/blob/master/TWCDOVER.ipynb) available.
@@ -47,10 +48,10 @@ redirect_from:
 
 ## Research Spotlight!
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint Coming Soon</div><img src='https://raw.githubusercontent.com/Q-Future/Q-Instruct/main/q-instruct.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://raw.githubusercontent.com/Q-Future/Q-Instruct/main/new_q_instruct.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-Level Vision](https://github.com/Q-Future/Q-Instruct) [![](https://img.shields.io/github/stars/Q-Future/Q-Instruct)](https://github.com/Q-Future/Q-Instruct)
+[Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models](https://github.com/Q-Future/Q-Instruct) [![](https://img.shields.io/github/stars/Q-Future/Q-Instruct)](https://github.com/Q-Future/Q-Instruct)
 
 **Haoning Wu**\*, Zicheng Zhang\*, Erli Zhang\*, Chaofeng Chen, Liang Liao, Annan Wang, Kaixin Xu, Chunyi Li, Geng Xue, Guangtao Zhai, Wenxiu Sun, Qiong Yan, Weisi Lin
 
