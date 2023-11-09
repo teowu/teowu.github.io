@@ -53,10 +53,11 @@ redirect_from:
 
 [Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models](https://github.com/Q-Future/Q-Instruct) [![](https://img.shields.io/github/stars/Q-Future/Q-Instruct)](https://github.com/Q-Future/Q-Instruct)
 
-**Haoning Wu**\*, Zicheng Zhang\*, Erli Zhang\*, Chaofeng Chen, Liang Liao, Annan Wang, Kaixin Xu, Chunyi Li, Geng Xue, Guangtao Zhai, Wenxiu Sun, Qiong Yan, Weisi Lin
+**Haoning Wu**\*, Zicheng Zhang\*, Erli Zhang\*, Chaofeng Chen, Liang Liao, Annan Wang, Kaixin Xu, Chunyi Li, Jingwen Hou, Guangtao Zhai, Xue Geng, Wenxiu Sun, Qiong Yan, Weisi Lin
 
 - We propose the **Q-Instruct**, a 200K instruction-tuning dataset for low-level vision, derived from a self-collected database on 58K real human pathway feedbacks on image quality.
-- The Q-Instruct significantly improves the low-level perceptual accuracy of MLLMs (e.g. LLaVA-v1.5-7B), and we have released the [pretrained weights](https://huggingface.co/teowu/llava_v1.5_7b_qinstruct_preview_v0.1). Take a try!
+- The Q-Instruct significantly improves the low-level perceptual accuracy of MLLMs (e.g. LLaVA-v1.5-7B), and we have released the **[model zoo](https://q-future.github.com/Q-Instruct/model_zoo)**. Run them on our local machines!
+- <a href="https://huggingface.co/spaces/teowu/Q-Instruct-on-mPLUG-Owl-2"><img src="https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm-dark.svg" alt="Open in Huggingface Spaces"></a>
 
 </div>
 </div>
