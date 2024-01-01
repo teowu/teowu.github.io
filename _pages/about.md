@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-- 👋 Hi, I’m Teo (Timothy) Wu, PhD Candidate in Nanyang Technological University 🇸🇬, [Resume](https://github.com/teowu/teowu/blob/master/OctResume.pdf), [Homepage](https://teowu.github.io)
-- 🌱 I’m currently working on *efficient+explainable* [Video Quality Assessment](https://github.com/VQAssessment)📹
+- 👋 Hi, I’m Teo (Timothy) Wu, PhD Candidate in Nanyang Technological University 🇸🇬, [Resume](https://github.com/teowu/teowu/blob/master/2024resume.pdf), [Homepage](https://teowu.github.io)
+- 🌱 I’m currently working on [Quality Assessment with Foundation Models](https://github.com/Q-Future)📹
 
+[![Star History Chart](https://api.star-history.com/svg?repos=VQAssessment/DOVER,VQAssessment/FAST-VQA-and-FasterVQA,Q-Future/Q-Bench,Q-Future/Q-Instruct,Q-Future/Q-Align&type=Timeline)](https://star-history.com/#VQAssessment/DOVER&VQAssessment/FAST-VQA-and-FasterVQA&Q-Future/Q-Bench&Q-Future/Q-Instruct&Q-Future/Q-Align&Timeline)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=VQAssessment/DOVER,VQAssessment/FAST-VQA-and-FasterVQA,Q-Future/Q-Bench&Q-Future/Q-Instruct&type=Timeline)](https://star-history.com/#VQAssessment/DOVER&VQAssessment/FAST-VQA-and-FasterVQA&Q-Future/Q-Bench&Q-Future/Q-Instruct&Timeline)
 
 - See my top Repos:
+- - ⚖️[**Q-Align**](https://q-align.github.io): A **text-guided syllabus** to teach multi-modality foundational models for most accurate visual rating ever! See its 📖[paper](https://q-future.github.io/Q-Align/fig/Q_Align_v0_1_preview.pdf) and 🖥️[repository](https://github.com/Q-Future/Q-Align)~
 - - 🧑‍🏫[**Q-Instruct**](https://github.com/Q-Future/Q-Instruct): A **dataset** and a **model zoo** for multi-modality foundational models with improved abilities on low-level vision and visual quality assessment! See its 📖[paper](https://q-future.github.io/Q-Instruct/fig/Q_Instruct_v0_1_preview.pdf) and 🖥️[repository](https://github.com/Q-Future/Q-Instruct)~
 - - 📑[**Q-Bench**](https://github.com/Q-Future/Q-Bench): A benchmark for multi-modality LLMs on low-level vision and visual quality assessment! See its 📖[paper](https://arxiv.org/abs/2309.14181) and 🖥️[repository](https://github.com/Q-Future/Q-Bench)~
 - - [ACMMM 2023, MaxVQA/MaxWell](https://github.com/VQAssessment/MaxVQA) TL,DR: 16-dimensional VQA Dataset and Method, towards explainable VQA. Gradio demos are available in repo.
@@ -47,6 +48,20 @@ redirect_from:
 # 📝 Publications 
 
 ## Research Spotlight!
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://raw.githubusercontent.com/Q-Future/Q-Align/main/fig/onescorer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Q-Align: Teaching LMMs for Visual Scoring via Discrete Text-Defined Levels](https://github.com/Q-Future/Q-Align) [![](https://img.shields.io/github/stars/Q-Future/Q-Align)](https://github.com/Q-Future/Q-Align)
+
+**Haoning Wu**\*+, Zicheng Zhang\*, Weixia Zhang, Chaofeng Chen, Liang Liao, Chunyi Li, Yixuan Gao, Annan Wang, Erli Zhang, Kaixin Xu, Wenxiu Sun, Qiong Yan, Xiongkuo Min, Guangtao Zhai, Weisi Lin
+
+- We prove that **discrete text-defined rating levels** (*excellent/good/fair/poor/bad*) are more effective than scores themselves in teaching multi-modality foundation models to score.
+- Without any additional design, it reaches state-of-the-art performance on IQA, IAA and VQA with remarkable gain! And it unifies these three tasks (mixing 5 training datasets) in one model (**OneAlign**), click the following link and try:
+- <a href="https://huggingface.co/spaces/teowu/OneScorer"><img src="https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm-dark.svg" alt="Open in Huggingface Spaces"></a>
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://raw.githubusercontent.com/Q-Future/Q-Instruct/main/new_q_instruct.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
