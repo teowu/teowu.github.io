@@ -17,11 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-- 👋 Hi, I’m Teo (Timothy) Wu, PhD Candidate in Nanyang Technological University 🇸🇬, [Resume](https://github.com/teowu/teowu/blob/master/2024resume.pdf), [Homepage](https://teowu.github.io)
-- 🌱 I’m currently working on [Quality Assessment with Foundation Models](https://github.com/Q-Future)📹
-
-[![Star History Chart](https://api.star-history.com/svg?repos=VQAssessment/DOVER,VQAssessment/FAST-VQA-and-FasterVQA,Q-Future/Q-Bench,Q-Future/Q-Instruct,Q-Future/Q-Align&type=Timeline)](https://star-history.com/#VQAssessment/DOVER&VQAssessment/FAST-VQA-and-FasterVQA&Q-Future/Q-Bench&Q-Future/Q-Instruct&Q-Future/Q-Align&Timeline)
-
+- 👋 Hi, I’m Teo (Timothy) Wu, Final Year PhD Candidate in Nanyang Technological University 🇸🇬, [Resume](https://github.com/teowu/teowu/blob/master/2024resume.pdf), [Homepage](https://teowu.github.io)
+- 🌱 I’m currently working on project [**Q-Future**: Visual Evaluation with Foundation Models](https://github.com/Q-Future)📹
 
 - See my top Repos:
 - - ⚖️[**Q-Align**](https://q-align.github.io): A **text-guided syllabus** to teach multi-modality foundational models for most accurate visual rating ever! See its 📖[paper](https://q-future.github.io/Q-Align/fig/Q_Align_v0_1_preview.pdf) and 🖥️[repository](https://github.com/Q-Future/Q-Align)~
@@ -152,23 +149,6 @@ redirect_from:
 </div>
 
 
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022 (Oral)</div><img src='https://github.com/teowu/teowu.github.io/raw/main/images/tpqi.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Exploring the Effectiveness of Video Perceptual Representation in Blind Video Quality Assessment](https://dl.acm.org/doi/abs/10.1145/3503161.3547849)
-
-Liang Liao, Kangmin Xu, **Haoning Wu**, Chaofeng Chen, Wenxiu Sun, Qiong Yan, Weisi Lin
-
-[**GitHub (Integrated into BVQI)**](https://github.com/VQAssessment/BVQI),  [**ArXiv**](https://arxiv.org/abs/2207.03723)
-  
--  Experiments show that the perceptual representation in the HVS is an effective way of predicting subjective temporal quality, and thus **TPQI** can, for the first time, achieve comparable performance to the spatial quality metric and be even more effective in assessing videos with large temporal variations.
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2023 (IF: 8.400)</div><img src='https://github.com/teowu/teowu.github.io/raw/main/images/discovqa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -183,14 +163,15 @@ Liang Liao, Kangmin Xu, **Haoning Wu**, Chaofeng Chen, Wenxiu Sun, Qiong Yan, We
 </div>
 
 
-
 # 📖 Educations
-- *2021.07.27 - 2024.08.08 (expected)*, PhD Candidate, S-Lab, Nanyang Technological University, supervised by [Prof. Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html), Research Topic: Consistent and Robust Video Quality Assessments.
-- *2021.08.10 - 2023.07.27 (now)*, PhD Student, S-Lab, Nanyang Technological University, supervised by [Prof. Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html).
+
+- *2021.07.27 - 2024.07.31 (expected)*, PhD Candidate, S-Lab, Nanyang Technological University, supervised by [Prof. Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html), Research Topic: Consistent and Robust Video Quality Assessments.
+- *2021.08.10 - 2023.07.27*, PhD Student, S-Lab, Nanyang Technological University, supervised by [Prof. Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html).
 - *2017.09 - 2021.07*, B.S. in Computer Science, EECS, Peking University. 
 
 # 📖 Teachings
 - 2023.02 - 2023.05, Teaching Assistant for SC1015: Introduction to Data Science and Artificial Intelligence.
+- 2023.08 - 2024.05, Teaching Assistant for SC3000: Artificial Intelligence.
 
 # 💻 Internships
 - *2023.05 - 2023.08*, TikTok Pte Ltd, Singapore, Singapore.
