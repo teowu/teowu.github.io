@@ -26,7 +26,7 @@ redirect_from:
 - - 📑[ICLR 2024 Spotlight, **Q-Bench**](https://github.com/Q-Future/Q-Bench): A benchmark for multi-modality LLMs on low-level vision and visual quality assessment! See its 📖[paper](https://arxiv.org/abs/2309.14181) and 🖥️[repository](https://github.com/Q-Future/Q-Bench)~
 - - 🥇 [ICCV 2023, DOVER](https://github.com/VQAssessment/DOVER) TL,DR: the SOTA NR-VQA method, can predict disentangled aesthetic and technical quality. [Colab demo](https://colab.research.google.com/github/taskswithcode/DOVER/blob/master/TWCDOVER.ipynb) available.
 - - 🧰 [TPAMI 2023, ECCV 2022, End-to-End VQA Toolbox (FAST-VQA)](https://github.com/VQAssessment/FAST-VQA-and-FasterVQA) TL, DR: An end-to-end Video Quality Assessment toolbox allowing you to develop your methods; official repo for [FAST-VQA](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660528.pdf) and [FasterVQA](https://ieeexplore.ieee.org/document/10264158)!
-- 📫 Reach me by e-mail: realtimothyhwu@gmail.com, Twitter: [Twitter](https://twitter.com/HaoningTimothy)
+- 📫 Reach me by e-mail: realtimothyhwu@gmail.com/haoning001@e.ntu.edu.sg, Twitter: [Twitter](https://twitter.com/HaoningTimothy)
 - [Google Scholar](https://scholar.google.com.hk/citations?user=wth-VbMAAAAJ&hl=en-US)
 
 # 🔥 News
@@ -40,19 +40,18 @@ redirect_from:
 - *2023.02.28*: &nbsp;🎉🎉 DisCoVQA get accepted by TCSVT2023 (IF: 8.400)!
 - *2022.07.07*: &nbsp;🎉🎉 FAST-VQA get accepted by ECCV2022 (CCF-B)!
 
-# 📝 Publications 
+# 📝 First-authored Projects 
 
-## Research Spotlight!
+## Preprints
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://raw.githubusercontent.com/Q-Future/Q-Align/main/fig/onescorer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Q-Align: Teaching LMMs for Visual Scoring via Discrete Text-Defined Levels](https://github.com/Q-Future/Q-Align) [![](https://img.shields.io/github/stars/Q-Future/Q-Align)](https://github.com/Q-Future/Q-Align)
 
-**Haoning Wu**\*+, Zicheng Zhang\*, Weixia Zhang, Chaofeng Chen, Liang Liao, Chunyi Li, Yixuan Gao, Annan Wang, Erli Zhang, Kaixin Xu, Wenxiu Sun, Qiong Yan, Xiongkuo Min, Guangtao Zhai, Weisi Lin
 
 - We prove that **discrete text-defined rating levels** (*excellent/good/fair/poor/bad*) are more effective than scores themselves in teaching multi-modality foundation models to score.
-- Without any additional design, it reaches state-of-the-art performance on IQA, IAA and VQA with remarkable gain! And it unifies these three tasks (mixing 5 training datasets) in one model (**OneAlign**), click the following link and try:
+- Without any additional design, it reaches state-of-the-art performance on IQA, IAA and VQA with remarkable gain! And it unifies these three tasks (mixing 5 training datasets) in one model (**OneAlign**)!
 - <a href="https://huggingface.co/spaces/teowu/OneScorer"><img src="https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm-dark.svg" alt="Open in Huggingface Spaces"></a>
 
 </div>
@@ -63,10 +62,9 @@ redirect_from:
 
 [Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models](https://github.com/Q-Future/Q-Instruct) [![](https://img.shields.io/github/stars/Q-Future/Q-Instruct)](https://github.com/Q-Future/Q-Instruct)
 
-**Haoning Wu**\*, Zicheng Zhang\*, Erli Zhang\*, Chaofeng Chen, Liang Liao, Annan Wang, Kaixin Xu, Chunyi Li, Jingwen Hou, Guangtao Zhai, Xue Geng, Wenxiu Sun, Qiong Yan, Weisi Lin
 
 - We propose the **Q-Instruct**, a 200K instruction-tuning dataset for low-level vision, derived from a self-collected database on 58K real human pathway feedbacks on image quality.
-- The Q-Instruct significantly improves the low-level perceptual accuracy of MLLMs (e.g. LLaVA-v1.5-7B), and we have released the **[model zoo](https://q-future.github.com/Q-Instruct/model_zoo)**. Run them on our local machines!
+- The Q-Instruct significantly improves the low-level perceptual accuracy of MLLMs, and we have released the **[model zoo](https://q-future.github.com/Q-Instruct/model_zoo)**. Take a try!
 - <a href="https://huggingface.co/spaces/teowu/Q-Instruct-on-mPLUG-Owl-2"><img src="https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm-dark.svg" alt="Open in Huggingface Spaces"></a>
 
 </div>
@@ -81,9 +79,6 @@ redirect_from:
 
 [Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-Level Vision](https://github.com/Q-Future/Q-Bench) [![](https://img.shields.io/github/stars/Q-Future/Q-Bench)](https://github.com/Q-Future/Q-Bench)
 
-**Haoning Wu**\*, Zicheng Zhang\*, Erli Zhang\*, Chaofeng Chen, Liang Liao, Annan Wang, Chunyi Li, Wenxiu Sun, Qiong Yan, Guangtao Zhai, Weisi Lin
-
-
 - We construct the **Q-Bench**, a benchmark to examine the progresses of MLLMs on lowlevel visual abilities. Anticipating these large foundation models to be general-purpose intelligence that can ultimately relieve human efforts, we propose that MLLMs should achieve three important and distinct abilities: perception on low-level visual attributes, language description on low-level visual information, as well as IQA.
 - Submit your model at [our project page](https://github.com/VQAssessment/Q-Bench/) to compete with existing ones!
 
@@ -94,8 +89,6 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 [Neighbourhood Representative Sampling for Efficient End-to-End Video Quality Assessment](https://ieeexplore.ieee.org/document/10264158)
-
-**Haoning Wu**, Chaofeng Chen, Jingwen Hou, Liang Liao, Annan Wang, Wenxiu Sun, Qiong Yan, Weisi Lin
 
 [**GitHub**](https://github.com/VQAssessment/FAST-VQA-and-FasterVQA) [![](https://img.shields.io/github/stars/VQAssessment/FAST-VQA-and-FasterVQA)](https://github.com/VQAssessment/FAST-VQA-and-FasterVQA),  [**ArXiv**](https://arxiv.org/abs/2207.02595)
   
@@ -111,8 +104,6 @@ redirect_from:
 
 [Towards Explainable Video Quality Assessment: A Database and a Language-Prompted Approach](https://github.com/VQAssessment/MaxVQA)
   
-**Haoning Wu**\*, Erli Zhang\*, Liang Liao, Chaofeng Chen, Jingwen Hou, Annan Wang, Wenxiu Sun, Qiong Yan, Weisi Lin
-
 [**GitHub**](https://github.com/VQAssessment/MaxVQA) [![](https://img.shields.io/github/stars/VQAssessment/MaxVQA)](https://github.com/VQAssessment/MaxVQA),  [**ArXiv**](https://arxiv.org/abs/2305.12726)
   
 - We collect over two million human opinions on 13 dimensions of quality-related factors to establish the multi-dimensional Maxwell database. Furthermore, we propose the MaxVQA, a language-prompted VQA approach that modifies CLIP to better capture important quality issues as observed in our analyses. 
@@ -124,7 +115,6 @@ redirect_from:
 
 [Exploring Video Quality Assessment on User Generated Contents from Aesthetic and Technical Perspectives](https://github.com/VQAssessment/DOVER)
   
-**Haoning Wu**\*, Erli Zhang\*, Liang Liao\*, Chaofeng Chen, Jingwen Hou, Annan Wang, Wenxiu Sun, Qiong Yan, Weisi Lin
 
 [**GitHub**](https://github.com/VQAssessment/DOVER) [![](https://img.shields.io/github/stars/VQAssessment/DOVER)](https://github.com/VQAssessment/DOVER),  [**ArXiv**](https://arxiv.org/abs/2211.04894v3)
   
@@ -151,8 +141,6 @@ redirect_from:
 
 [DisCoVQA: Temporal Distortion-Content Transformers for Video Quality Assessment](https://github.com/VQAssessment/DisCoVQA)
   
-**Haoning Wu**, Chaofeng Chen, Liang Liao, Jingwen Hou, Wenxiu Sun, Qiong Yan, Weisi Lin
-
 [**GitHub**](https://github.com/VQAssessment/DisCoVQA),  [**ArXiv**](https://arxiv.org/abs/2206.09853)
   
 - Based on prominent time-series modeling ability of transformers, we propose a novel and effective transformer-based VQA method to tackle temporal distortions as well as the content-related temporal attention mechanism. Without extra data for pre-training, the DisCoVQA reaches state-of-the-art performance on several VQA benchmarks and up to 10% better generalization ability than existing methods.
