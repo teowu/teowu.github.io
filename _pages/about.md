@@ -22,7 +22,7 @@ redirect_from:
 
 - See my top Repos:
 - - 🧑‍🏫🧑‍🏫[**Co-Instruct**](https://co-instruct.github.io): Extending multi-modality foundation models on **multi-image comparison** for low-level vision and visual quality assessment. See its 📖[paper](https://arxiv.org/pdf/2402.16641.pdf) and 🖥️[repository](https://github.com/Q-Future/Co-Instruct)~
-- - ⚖️[**Q-Align**](https://q-align.github.io): A **text-guided syllabus** to teach multi-modality foundational models for most accurate visual rating ever! See its 📖[paper](https://q-future.github.io/Q-Align/fig/Q_Align_v0_1_preview.pdf) and 🖥️[repository](https://github.com/Q-Future/Q-Align)~
+- - ⚖️[ICML 2024, **Q-Align**](https://q-align.github.io): A **text-guided syllabus** to teach multi-modality foundational models for most accurate visual rating ever! See its 📖[paper](https://q-future.github.io/Q-Align/fig/Q_Align_v0_1_preview.pdf) and 🖥️[repository](https://github.com/Q-Future/Q-Align)~
 - - 🧑‍🏫[CVPR 2024, **Q-Instruct**](https://github.com/Q-Future/Q-Instruct): A **dataset** and a **model zoo** for multi-modality foundational models with improved abilities on low-level vision and visual quality assessment! See its 📖[paper](https://q-future.github.io/Q-Instruct/fig/Q_Instruct_v0_1_preview.pdf) and 🖥️[repository](https://github.com/Q-Future/Q-Instruct)~
 - - 📑[ICLR 2024 Spotlight, **Q-Bench**](https://github.com/Q-Future/Q-Bench): A benchmark for multi-modality LLMs on low-level vision and visual quality assessment! See its 📖[paper](https://arxiv.org/abs/2309.14181) and 🖥️[repository](https://github.com/Q-Future/Q-Bench)~
 - - 🥇 [ICCV 2023, DOVER](https://github.com/VQAssessment/DOVER) TL,DR: the SOTA NR-VQA method, can predict disentangled aesthetic and technical quality. [Colab demo](https://colab.research.google.com/github/taskswithcode/DOVER/blob/master/TWCDOVER.ipynb) available.
@@ -31,6 +31,7 @@ redirect_from:
 - [Google Scholar](https://scholar.google.com.hk/citations?user=wth-VbMAAAAJ&hl=en-US)
 
 # 🔥 News
+- *2024.05.02*: &nbsp;🎉🎉 Q-Align get accepted by ICML2024! Congrats to the Q-Future family and hope it inspires more people.
 - *2024.02.27*: &nbsp;🎉🎉 Q-Instruct get accepted by CVPR2024! In my last year as a PhD student to finally have one paper at this conf.
 - *2024.01.16*: &nbsp;🎉🎉 Q-Bench get accepted by ICLR2024 as a Spotlight paper!
 - *2023.09.10*: &nbsp;🎉🎉 Extension of FAST-VQA (FasterVQA) get accepted by TPAMI (IF: 23.600)!
@@ -57,7 +58,14 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://raw.githubusercontent.com/Q-Future/Q-Align/main/fig/onescorer.png' alt="sym" width="100%"></div></div>
+
+
+
+
+
+## Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='https://raw.githubusercontent.com/Q-Future/Q-Align/main/fig/onescorer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Q-Align: Teaching LMMs for Visual Scoring via Discrete Text-Defined Levels](https://github.com/Q-Future/Q-Align) [![](https://img.shields.io/github/stars/Q-Future/Q-Align)](https://github.com/Q-Future/Q-Align)
@@ -69,11 +77,6 @@ redirect_from:
 
 </div>
 </div>
-
-
-
-
-## Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='https://raw.githubusercontent.com/Q-Future/Q-Instruct/main/new_q_instruct.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
