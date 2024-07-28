@@ -23,7 +23,7 @@ redirect_from:
 
 - 🌱 I have also been the lead of project [**Q-Future**: Visual Evaluation with MLLMs](https://github.com/Q-Future)📹, on which 5 first-authored papers accepted in top conferences including ICML, ICLR, CVPR, ECCV and ACMMM. The flagship scorer, [**OneAlign**](https://huggingface.co/q-future/one-align) has been downloaded more than 238K times (*until Jul 25, 2024*) on HuggingFace.
 
-- Prior to MLLMs, my PhD topic was on *video quality assessment*, a traditional area trying to gauge the quality scores (and more) on videos. Among 6 papers published in that area (in ECCV, ICCV, TPAMI, *etc*), the two representative works are FAST-VQA and DOVER, earning 1st and 2nd-ranked stars among all projects in [this topic](https://github.com/topics/video-quality-assessment). 
+- Prior to MLLMs, my PhD topic was on *video quality assessment*, a traditional area trying to gauge the quality scores (and more) on videos. Among 6 papers published in that area (in ECCV, ICCV, TPAMI, *etc*), the two representative works are FAST-VQA [![](https://img.shields.io/github/stars/VQAssessment/FAST-VQA)](https://github.com/VQAssessment/FAST-VQA) and DOVER [![](https://img.shields.io/github/stars/VQAssessment/DOVER)](https://github.com/VQAssessment/DOVER), earning 1st and 2nd-ranked stars among all projects in [this topic](https://github.com/topics/video-quality-assessment). 
 
 - 📫 Reach me by e-mail: realtimothyhwu@gmail.com/haoning001@e.ntu.edu.sg, Twitter: [Twitter](https://twitter.com/HaoningTimothy)
 - [Google Scholar](https://scholar.google.com.hk/citations?user=wth-VbMAAAAJ&hl=en-US)
