@@ -21,7 +21,7 @@ redirect_from:
 
 - I am currently focusing on multi-modal LLM (MLLM) pre-training and evaluation (longer context & better instruction-following). See our [**LongVideoBench**](https://https://longvideobench.github.io/), the first video benchmark for MLLMs proven improvable given more input frames (>=256). 
 
-- 🌱 I have also been the lead of project [**Q-Future**: Visual Evaluation with MLLMs](https://github.com/Q-Future)📹, on which 5 first-authored papers accepted in top conferences including ICML, ICLR, CVPR, ECCV and ACMMM. The flagship scorer, [**OneAlign**](https://huggingface.co/q-future/one-align) has been downloaded more than 238K times (*until Jul 25, 2024*) on HuggingFace.
+- 🌱 I have also been the lead of project [**Q-Future**: Visual Evaluation with MLLMs](https://github.com/Q-Future)📹, on which 6 first-authored papers accepted in top conferences and journels including ICML, ICLR, TPAMI, CVPR, ECCV and ACMMM. The flagship scorer, [**OneAlign**](https://huggingface.co/q-future/one-align) has been downloaded more than 238K times (*until Jul 25, 2024*) on HuggingFace.
 
 - Prior to MLLMs, my PhD topic was on *video quality assessment*, a traditional area trying to gauge the quality scores (and more) on videos. Among 6 papers published in that area (in ECCV, ICCV, TPAMI, *etc*), the two representative works are FAST-VQA [![](https://img.shields.io/github/stars/VQAssessment/FAST-VQA-and-FasterVQA)](https://github.com/VQAssessment/FAST-VQA-and-FasterVQA) and DOVER [![](https://img.shields.io/github/stars/VQAssessment/DOVER)](https://github.com/VQAssessment/DOVER), earning 1st and 2nd-ranked stars among all projects in [this topic](https://github.com/topics/video-quality-assessment). 
 
@@ -30,16 +30,17 @@ redirect_from:
 
 # 🔥 News
 
+- *2024.08.08*: &nbsp;🎉🎉 Extension of Q-Bench (Q-Bench+, on image pairs) get accepted by TPAMI!
 - *2024.07.16*: &nbsp;🎉🎉 4 papers in Q-Future get accepted by ACMMM (1 first-authored, 3 Oral)!
 - *2024.07.02*: &nbsp;🎉🎉 Co-Instruct get accepted by ECCV2024 (score: 5543)! 
 - *2024.05.02*: &nbsp;🎉🎉 Q-Align get accepted by ICML2024 (score: 7765)!
 - *2024.02.27*: &nbsp;🎉🎉 Q-Instruct get accepted by CVPR2024!
 - *2024.01.16*: &nbsp;🎉🎉 Q-Bench get accepted by ICLR2024 as a Spotlight paper!
-- *2023.09.10*: &nbsp;🎉🎉 Extension of FAST-VQA (FasterVQA) get accepted by TPAMI (IF: 23.600)!
-- *2023.07.26*: &nbsp;🎉🎉 MaxVQA get accepted by ACMMM2023 as an Oral paper (CCF-A)!
-- *2023.07.14*: &nbsp;🎉🎉 DOVER get accepted by ICCV2023 (CCF-A)!
+- *2023.09.10*: &nbsp;🎉🎉 Extension of FAST-VQA (FasterVQA) get accepted by TPAMI!
+- *2023.07.26*: &nbsp;🎉🎉 MaxVQA get accepted by ACMMM2023 as an Oral paper!
+- *2023.07.14*: &nbsp;🎉🎉 DOVER get accepted by ICCV2023!
 - *2023.02.28*: &nbsp;🎉🎉 DisCoVQA get accepted by TCSVT. *First paper written in my PhD career.*
-- *2022.07.07*: &nbsp;🎉🎉 FAST-VQA get accepted by ECCV2022 (CCF-B)!
+- *2022.07.07*: &nbsp;🎉🎉 FAST-VQA get accepted by ECCV2022!
 
 # 📝 Selected Publications
 
