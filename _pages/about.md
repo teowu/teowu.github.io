@@ -19,7 +19,7 @@ redirect_from:
 
 - 👋 Hi, I’m Teo Wu (*officially Haoning Wu*), Final Year PhD Candidate in Nanyang Technological University 🇸🇬, supervised by [Prof. Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html). Prior to that, I obtained by B.S. degree of computer science in Peking University, PR China. 
 
-- I am currently focusing on multi-modal LLM (MLLM) pre-training and evaluation (longer context & better instruction-following). See our [**LongVideoBench**](https://https://longvideobench.github.io/), the first video benchmark for MLLMs proven improvable given more input frames (>=256). 
+- I am currently focusing on multi-modal LLM (MLLM) pre-training and evaluation (longer context & better instruction-following). See our [**LongVideoBench**](https://longvideobench.github.io/), the first video benchmark for MLLMs proven improvable given more input frames (>=256). 
 
 - 🌱 I have also been the lead of project [**Q-Future**: Visual Evaluation with MLLMs](https://github.com/Q-Future)📹, on which 6 first-authored papers accepted in top conferences and journels including ICML, ICLR, TPAMI, CVPR, ECCV and ACMMM. The flagship scorer, [**OneAlign**](https://huggingface.co/q-future/one-align) has been downloaded more than 238K times (*until Jul 25, 2024*) on HuggingFace.
 
@@ -98,7 +98,7 @@ redirect_from:
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024 (Spotlight)</div><img src='https://github.com/Q-Future/Q-Bench/raw/master/qbench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024 (Spotlight) & TPAMI 2024</div><img src='https://github.com/Q-Future/Q-Bench/raw/master/qbench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-Level Vision](https://github.com/Q-Future/Q-Bench) [![](https://img.shields.io/github/stars/Q-Future/Q-Bench)](https://github.com/Q-Future/Q-Bench)
