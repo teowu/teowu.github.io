@@ -32,7 +32,7 @@ redirect_from:
 
 - *2024.08.08*: &nbsp;🎉🎉 Extension of Q-Bench (Q-Bench+, on image pairs) get accepted by TPAMI!
 - *2024.07.16*: &nbsp;🎉🎉 4 papers in Q-Future get accepted by ACMMM (1 first-authored, 3 Oral)!
-- *2024.07.02*: &nbsp;🎉🎉 Co-Instruct get accepted by ECCV2024 (score: 5543)! 
+- *2024.07.02*: &nbsp;🎉🎉 Co-Instruct get accepted by ECCV2024 as an Oral paper!
 - *2024.05.02*: &nbsp;🎉🎉 Q-Align get accepted by ICML2024 (score: 7765)!
 - *2024.02.27*: &nbsp;🎉🎉 Q-Instruct get accepted by CVPR2024!
 - *2024.01.16*: &nbsp;🎉🎉 Q-Bench get accepted by ICLR2024 as a Spotlight paper!
@@ -61,7 +61,7 @@ redirect_from:
 
 ## Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='https://raw.githubusercontent.com/Q-Future/Co-Instruct/main/co-instruct.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024 (Oral)</div><img src='https://raw.githubusercontent.com/Q-Future/Co-Instruct/main/co-instruct.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Open-ended Visual Quality Comparison](https://github.com/Q-Future/Co-Instruct) [![](https://img.shields.io/github/stars/Q-Future/Co-Instruct)](https://github.com/Q-Future/Co-Instruct)
