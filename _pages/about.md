@@ -32,6 +32,7 @@ redirect_from:
 
 - *2024.10.11*: &nbsp;🎉🎉 We release [Aria](https://huggingface.co/rhymes.ai/Aria), a native LMM that excels on text, code, image, video, PDF and more!
 - *2024.09.26*: &nbsp;🎉🎉 LongVideoBench get accepted by Neurips2024 D&B track!
+- *2024.09.26*: &nbsp;🎉🎉 Compare2Score get accepted by Neurips2024 as Spotlight!
 - *2024.08.08*: &nbsp;🎉🎉 Extension of Q-Bench (Q-Bench+, on image pairs) get accepted by TPAMI!
 - *2024.07.16*: &nbsp;🎉🎉 4 papers in Q-Future get accepted by ACMMM (1 first-authored, 3 Oral)!
 - *2024.07.02*: &nbsp;🎉🎉 Co-Instruct get accepted by ECCV2024 as an Oral paper!
