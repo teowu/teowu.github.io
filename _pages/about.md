@@ -17,19 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-- 👋 Hi, I’m Teo Wu (*officially Haoning Wu*), Final Year PhD Candidate in Nanyang Technological University 🇸🇬, supervised by [Prof. Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html). Prior to that, I obtained by B.S. degree of computer science in Peking University, PR China. 
+- 👋 Hi, I’m Teo Wu (*officially Haoning Wu*), working on LMMs in [Rhymes AI](https://rhymes.ai), closely advised by [Dongxu Li](https://https://sites.google.com/view/dongxu-li/home) and [Junnan Li](https://openreview.net/profile?id=~Junnan_Li2). Prior to this, I have been a PhD candidate (preparing thesis defense) in Nanyang Technological University 🇸🇬, supervised by [Prof. Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html). I obtained by B.S. degree of computer science in Peking University (北京大学).
 
-- I am currently focusing on multi-modal LLM (MLLM) pre-training and evaluation (longer context & better instruction-following). See our [**LongVideoBench**](https://longvideobench.github.io/), the first video benchmark for MLLMs proven improvable given more input frames (>=256). 
+- I am currently focusing on LMM pre-training and evaluation (video & longer context & better instruction-following). See our [**LongVideoBench**](https://longvideobench.github.io/), the first video benchmark for MLLMs proven improvable given more input frames (>=256). I have also contributed to video and long-context training of Aria ([Model](https://huggingface.co/rhymes.ai/Aria), [Paper](https://huggingface.co/papers/2410.05993), [GitHub](https://github.com/rhymes-ai/Aria)), an excellent open-source native MoE LMM.
 
-- 🌱 I have also been the lead of project [**Q-Future**: Visual Evaluation with MLLMs](https://github.com/Q-Future)📹, on which 6 first-authored papers accepted in top conferences and journels including ICML, ICLR, TPAMI, CVPR, ECCV and ACMMM. The flagship scorer, [**OneAlign**](https://huggingface.co/q-future/one-align) has been downloaded more than 238K times (*until Jul 25, 2024*) on HuggingFace.
+- 🌱 I have also been the lead of project [**Q-Future**: Visual Evaluation with MLLMs](https://github.com/Q-Future)📹, on which 7 first-authored papers accepted in top conferences and journels including ICML, ICLR, NeurIPS, TPAMI, CVPR, ECCV and ACMMM. The flagship scorer, [**OneAlign**](https://huggingface.co/q-future/one-align) has been downloaded more than 238K times (*until Jul 25, 2024*) on HuggingFace.
 
-- Prior to MLLMs, my PhD topic was on *video quality assessment*, a traditional area trying to gauge the quality scores (and more) on videos. Among 6 papers published in that area (in ECCV, ICCV, TPAMI, *etc*), the two representative works are FAST-VQA [![](https://img.shields.io/github/stars/VQAssessment/FAST-VQA-and-FasterVQA)](https://github.com/VQAssessment/FAST-VQA-and-FasterVQA) and DOVER [![](https://img.shields.io/github/stars/VQAssessment/DOVER)](https://github.com/VQAssessment/DOVER), earning 1st and 2nd-ranked stars among all projects in [this topic](https://github.com/topics/video-quality-assessment). 
+- Prior to MLLMs, my PhD topic was on *video quality assessment*, a traditional area trying to gauge the quality scores (and more) on videos. Among 6 papers published in that area (in ECCV, ICCV, TPAMI, *etc*), the two representative works are FAST-VQA and DOVER, which have been most-used baselines in that field.
 
 - 📫 Reach me by e-mail: realtimothyhwu@gmail.com/haoning001@e.ntu.edu.sg, Twitter: [Twitter](https://twitter.com/HaoningTimothy)
 - [Google Scholar](https://scholar.google.com.hk/citations?user=wth-VbMAAAAJ&hl=en-US)
 
 # 🔥 News
 
+- *2024.10.11*: &nbsp;🎉🎉 We release [Aria](https://huggingface.co/rhymes.ai/Aria), a native LMM that excels on text, code, image, video, PDF and more!
+- *2024.09.26*: &nbsp;🎉🎉 LongVideoBench get accepted by Neurips2024 D&B track!
 - *2024.08.08*: &nbsp;🎉🎉 Extension of Q-Bench (Q-Bench+, on image pairs) get accepted by TPAMI!
 - *2024.07.16*: &nbsp;🎉🎉 4 papers in Q-Future get accepted by ACMMM (1 first-authored, 3 Oral)!
 - *2024.07.02*: &nbsp;🎉🎉 Co-Instruct get accepted by ECCV2024 as an Oral paper!
@@ -42,12 +44,12 @@ redirect_from:
 - *2023.02.28*: &nbsp;🎉🎉 DisCoVQA get accepted by TCSVT. *First paper written in my PhD career.*
 - *2022.07.07*: &nbsp;🎉🎉 FAST-VQA get accepted by ECCV2022!
 
+
+
 # 📝 Selected Publications
 
-## Preprints
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='https://longvideobench.github.io/static/images/curve.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurips 2024 D&B</div><img src='https://longvideobench.github.io/static/images/curve.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -58,8 +60,6 @@ redirect_from:
 
 </div>
 </div>
-
-## Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024 (Oral)</div><img src='https://raw.githubusercontent.com/Q-Future/Co-Instruct/main/co-instruct.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
