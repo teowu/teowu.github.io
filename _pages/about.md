@@ -30,7 +30,7 @@ redirect_from:
 
 # 🔥 News
 
-- *2024.10.11*: &nbsp;🎉🎉 We release [Aria](https://huggingface.co/rhymes.ai/Aria), a native LMM that excels on text, code, image, video, PDF and more!
+- *2024.10.11*: &nbsp;🎉🎉 We release [Aria](https://huggingface.co/rhymes-ai/Aria), a native LMM that excels on text, code, image, video, PDF and more!
 - *2024.09.26*: &nbsp;🎉🎉 LongVideoBench get accepted by Neurips2024 D&B track!
 - *2024.09.26*: &nbsp;🎉🎉 Compare2Score get accepted by Neurips2024 as Spotlight!
 - *2024.08.08*: &nbsp;🎉🎉 Extension of Q-Bench (Q-Bench+, on image pairs) get accepted by TPAMI!
@@ -46,6 +46,19 @@ redirect_from:
 - *2022.07.07*: &nbsp;🎉🎉 FAST-VQA get accepted by ECCV2022!
 
 
+# Projects
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='https://rhymes.ai/images/blog/Aria-intro-10062024/flowChatTwo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Aria: First Open Multimodal Native MoE Model](https://rhymes.ai/blog-details/aria-first-open-multimodal-native-moe-model) [![](https://img.shields.io/github/stars/rhymes-ai/Aria)](https://github.com/rhymes-ai/Aria)
+
+- The first native multi-modal MOE model, excels on text, code, image, video, PDF, etc.
+- Extraordinary 64K context length, can steadliy improves on long video benchmarks until 256 input frames.
+- #2 on LongVideoBench (#1 open-source), #6 on VideoMME (#1 open-source <70B parameters), #3 on MMBench-Video (#1 open-source), #1 on MLVU-Test, all evaluated under 256 uniform frames.
+
+</div>
+</div>
 
 # 📝 Selected Publications
 
