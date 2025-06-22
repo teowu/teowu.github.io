@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haoning Wu"
-description              : "Haoning Wu (Teo Wu)'s Homepage. A third (final) year PhD student in NTU, working on Visual Evaluation and Large-scale Generative Models."
+description              : "Haoning Wu (Teo Wu)'s Homepage. PhD from NTU, Singapore; Moonshot AI."
 repository               : "teowu/teowu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haoning Wu"
   avatar           : "images/android-chrome-192x192.png"
-  bio              : "Final Year PhD Candidate, S-Lab, Nanyang Technological University"
+  bio              : "B.S PKU; Ph.D. NTU; Current Moonshot AI Singapore"
   location         : "Singapore, Singapore"
   employer         :
   pubmed           : 
