@@ -17,11 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-- 👋 Hi, I’m Teo Wu (*officially Haoning Wu*), working on LMMs in [Rhymes AI](https://rhymes.ai), closely advised by [Dongxu Li](https://https://sites.google.com/view/dongxu-li/home) and [Junnan Li](https://openreview.net/profile?id=~Junnan_Li2). Prior to this, I have been a PhD candidate (preparing thesis defense) in Nanyang Technological University 🇸🇬, supervised by [Prof. Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html). I obtained by B.S. degree of computer science in Peking University (北京大学).
+- 👋 Hi, I’m Teo Wu (*officially Wu Haoning 吴昊宁*), working on LMMs in [Moonshot AI](https://kimi.ai), working with [Xinyu Zhou](https://scholar.google.com/citations?user=Jv4LCj8AAAAJ&hl=en). Prior to this, I have been a PhD candidate (preparing thesis defense) in Nanyang Technological University 🇸🇬, supervised by [Prof. Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html). I obtained by B.S. degree of computer science in Peking University (北京大学).
 
-- I am currently focusing on LMM pre-training and evaluation (video & longer context & better instruction-following). See our [**LongVideoBench**](https://longvideobench.github.io/), the first video benchmark for LMMs proven improvable given more input frames (>=256). I have also contributed to video and long-context training of **Aria** ([Model](https://huggingface.co/rhymes-ai/Aria), [Paper](https://huggingface.co/papers/2410.05993), [GitHub](https://github.com/rhymes-ai/Aria)), an excellent open-source native MoE LMM with abilities matching GPT-4o-mini/Gemini-1.5-Flash in only 3.9B activated parameters.
+- I am currently focusing on LMM pre-training, long-prefill, and long-decode extensions.
+- - [General LMMs]: I co-lead [Kimi-VL](https://github.com/MoonshotAI/Kimi-VL), an open-source MoE LMM that is excellent at OS-agent, long-context, with **long-thinking abilities**, and lead its evoluted version 🤔👀[Kimi-VL-Thinking-2506](https://huggingface.co/moonshotai/Kimi-VL-A3B-Thinking-2506), the first open multimodal thinking model that can handle OS-agent grounding, long video and PDF analysis, and high-resolution image understanding; and previously 💬[Aria-Chat](https://huggingface.co/rhymes-ai/Aria-Chat), an open-source MoE LMM optimized for multimodal everyday dialogs, matching GPT-4o on WildVision-Bench.
+- - [Video LMMs]: I have designed 🎬[**LongVideoBench**](https://longvideobench.github.io/), the first video benchmark for LMMs proven improvable given more input frames (>=256); I have also led video and long-context training of **Aria** ([Model](https://huggingface.co/rhymes-ai/Aria), [Paper](https://huggingface.co/papers/2410.05993), [GitHub](https://github.com/rhymes-ai/Aria)), an excellent open-source native MoE LMM with abilities matching GPT-4o-mini/Gemini-1.5-Flash in only 3.9B activated parameters.
 
-- 🌱 I have also been the lead of project [**Q-Future**: Visual Evaluation with LMMs](https://github.com/Q-Future)📹, on which 7 first-authored papers accepted in top conferences and journels including ICML, ICLR, NeurIPS, TPAMI, CVPR, ECCV and ACMMM. The flagship scorer, [**OneAlign**](https://huggingface.co/q-future/one-align) has been downloaded more than 238K times (*until Jul 25, 2024*) on HuggingFace.
+- 🌱 I have also been the lead of project [**Q-Future**: Visual Evaluation with LMMs](https://github.com/Q-Future)📹, on which 7 first-authored papers accepted in top conferences and journels including ICML, ICLR, NeurIPS, TPAMI, CVPR, ECCV and ACMMM. The flagship scorer, [**OneAlign**](https://huggingface.co/q-future/one-align) has been downloaded more than 600K times (*until April, 2025*) on HuggingFace.
+
+
+- 📫 Reach me by e-mail: realtimothyhwu@gmail.com/haoning001@e.ntu.edu.sg, Twitter: [Twitter](https://twitter.com/HaoningTimothy)
+- [Google Scholar](https://scholar.google.com.hk/citations?user=wth-VbMAAAAJ&hl=en-US)
 
 - Prior to LMMs, my PhD topic was on *video quality assessment*, a traditional area trying to gauge the quality scores (and more) on videos. Among 6 papers published in that area (in ECCV, ICCV, TPAMI, *etc*), the two representative works are FAST-VQA and DOVER, which have been most-used baselines in that field.
 
@@ -30,6 +36,8 @@ redirect_from:
 
 # 🔥 News
 
+- *2025.06.21*: &nbsp;🎉🎉 We release [Kimi-VL-Thinking-2506](https://huggingface.co/moonshotai/Kimi-VL-A3B-Thinking-2506): a smarter thinking model while absorbing better perception and frontier long-context (video, long PDF) and OS-agent capabilities in thinking mode.
+- *2025.04.10*: &nbsp;🎉🎉 We release [Kimi-VL](https://huggingface.co/moonshotai/Kimi-VL-A3B-Instruct): the first general-purpose open multimodal thinking model, and a strong native MoE LMM on general, long-context (video, long PDF) and OS-agent capabilities.
 - *2024.10.11*: &nbsp;🎉🎉 We release [Aria](https://huggingface.co/rhymes-ai/Aria), a native LMM that excels on text, code, image, video, PDF and more!
 - *2024.09.26*: &nbsp;🎉🎉 LongVideoBench get accepted by Neurips2024 D&B track!
 - *2024.09.26*: &nbsp;🎉🎉 Compare2Score get accepted by Neurips2024 as Spotlight!
@@ -45,8 +53,13 @@ redirect_from:
 - *2023.02.28*: &nbsp;🎉🎉 DisCoVQA get accepted by TCSVT. *First paper written in my PhD career.*
 - *2022.07.07*: &nbsp;🎉🎉 FAST-VQA get accepted by ECCV2022!
 
+# Current: Moonshot AI
 
-# Projects
+Right now, I am working in Kimi-VL team, developing open-source and proprietary models and pursuing frontier basic visual abilities. I am currently looking for interns and full-time employees with interests on fine-grained visual perception, video understanding, multimodal reasoning, or multimodal long-context understanding in Singapore. Welcome to contact throught email if interested.
+
+Visit our [Hugging Face collection](https://huggingface.co/collections/moonshotai/kimi-vl-a3b-67f67b6ac91d3b03d382dd85) for all publicly-released models; we also define challenging multimodal benchmarks, e.g. [VideoReasonBench](https://huggingface.co/papers/2505.23359) to gauge the edge of current LMMs. 
+
+# Projects at Rhymes.AI
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='https://rhymes.ai/images/blog/Aria-intro-10062024/flowChatTwo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
